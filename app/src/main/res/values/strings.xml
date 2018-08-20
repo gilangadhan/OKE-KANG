@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Oke Kang</string>
+    <string name="title_beranda">Berada</string>
+    <string name="title_saya">Saya</string>
+    <string name="title_notifikasi">Notifikasi</string>
+    <string name="title_lainnya">Lainnya</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_activity_main_user">MainUserActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_saya">SayaActivity</string>
+    <string name="title_activity_notifikasi">NotifikasiActivity</string>
+    <string name="title_activity_lainnya">LainnyaActivity</string>
+    <string name="title_activity_content_main">content_main</string>
+</resources>
